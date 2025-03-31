@@ -88,7 +88,7 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 #defining custom constants
 
 // define('URL', 'https://www.findmyresponse.com/khiladi');
-define('URL', 'http://localhost/fmr1/khiladi');
+define('URL', 'http://localhost/khiladi');
 define('CSS', URL.'/assets/css/');
 define('IMG', URL.'/assets/img/');
 define('JS', URL.'/assets/js/');
